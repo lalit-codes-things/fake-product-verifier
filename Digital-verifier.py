@@ -110,7 +110,5 @@ def main():
     print("data integrity in a supply chain – the foundation of")
     print("modern anti-counterfeiting systems.")
     print("=" * 70)
-
-
 if __name__ == "__main__":
     main()
